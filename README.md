@@ -1,2 +1,2 @@
-# T-Rex-0.1
+# Fruit-Ninja
 juego del t-rex para cualquier tipo de dispositivo
